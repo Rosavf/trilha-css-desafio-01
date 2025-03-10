@@ -215,8 +215,11 @@ button:hover {
 
 
 #professional-challenges {
+    
 
     text-align: center;
+
+    border-bottom: 1px solid rgba(51, 168, 219, 1)
  }
 
  #professional-challenges h2 {
@@ -247,9 +250,6 @@ button:hover {
     letter-spacing: 0%;
     white-space: pre;
 }
-
-   
- 
 
    
 footer {
